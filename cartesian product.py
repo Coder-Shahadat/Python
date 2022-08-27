@@ -1,3 +1,4 @@
+# https://github.com/Coder-Shahadat/Python/blob/main/cartesian%20product.py
 from itertools import product
 
 s = list(map(int, input().split()))
